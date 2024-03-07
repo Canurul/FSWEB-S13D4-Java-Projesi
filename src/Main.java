@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        /*
         Point first = new Point(6, 5);
 
         Point second = new Point(3, 1);
@@ -13,6 +14,8 @@ public class Main {
         Point point = new Point(0,0);
 
         System.out.println("distance()= " + point.distance());
+        */
+
 
     }
 }
